@@ -29,6 +29,17 @@ chmod +x ./script.sh
 
 ---
 
+## Acessar MySQL
+```bash
+docker run -it --rm mysql:8.0 mysql \
+  -h <IP> \
+  -P 3306 \
+  -u root \
+  -p
+```
+
+---
+
 ## Payloads JSON para teste
 
 **POST 1**
