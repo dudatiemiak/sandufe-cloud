@@ -27,6 +27,11 @@ chmod +x ./script.sh
 ./script.sh
 ```
 
+Caso de erro:
+```bash
+dos2unix *.sh
+```
+
 ---
 
 ## Acessar MySQL
