@@ -3,23 +3,23 @@
 
 POST 1
 {
-  "nmModelo": "MOTTU_E"
+  "nmPais": "Japao"
 }
 
 POST 2
 {
-  "nmPais": "Brasil"
+  "nmPais": "Brazil"
 }
 
 PUT 1
 {
-"idModelo": 1,
-  "nmModelo": "MOTTU_SPORT"
+"idPais": 1,
+  "nmPais": "Japão"
 }
 
 
 PUT 2
 {
-"idPais": 1,
-  "nmPais": "Japão"
+"idPais": 2,
+  "nmPais": "Brasil"
 }
